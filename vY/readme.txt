@@ -5,4 +5,7 @@ Skipped:
 re:invent 2018
 re:invent 2018 wide
 oval track
-
+European Seaside Circuit
+Asia Pacific Bay Loop
+American Hills Speedway
+Po-Chun Speedway
