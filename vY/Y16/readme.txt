@@ -1,4 +1,5 @@
 Y15 trained for 1 hour on Stratus Loop
+
 Continuous Action space
 Speed: [ 1 : 3 ] m/s
 Steering angle: [ -30 : 30 ] °
